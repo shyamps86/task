@@ -80,7 +80,7 @@ const Home = () => {
           </div>
 
           <button className="bg-blue-500 text-white font-bold py-2 px-4 rounded opacity-50">
-                Button
+                submit
           </button>
         </form>
       </div>
